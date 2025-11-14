@@ -1,6 +1,6 @@
 # M451 Series CMSIS BSP
 
-Full code: https://github.com/rtek1000/NUVOTON_M451
+Source code: https://github.com/rtek1000/NUVOTON_M451
 
 This BSP folder
 
