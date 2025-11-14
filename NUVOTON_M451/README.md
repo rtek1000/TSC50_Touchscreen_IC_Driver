@@ -4,7 +4,7 @@
 - - 4-wire resistive touchscreen driver implementation code (30 CPS)
 - - Other settings were not implemented.
 
-Source code: https://github.com/rtek1000/NUVOTON_M451
+Example code sources: https://github.com/rtek1000/NUVOTON_M451
 
 [MDK-ARM Version 5.43a](https://www.keil.com/demo/eval/arm.htm)
 
