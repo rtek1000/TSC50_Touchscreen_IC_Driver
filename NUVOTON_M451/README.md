@@ -2,7 +2,7 @@
 
 Source code: https://github.com/rtek1000/NUVOTON_M451
 
-This BSP folder
+BSP folder
 
 ## .\Document\
 
