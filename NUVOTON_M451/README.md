@@ -1,4 +1,8 @@
-# M451 Series CMSIS BSP
+# M451 Series
+
+- M452LD3AE MCU
+- - 4-wire resistive touchscreen driver implementation code (30 CPS)
+- - Other settings were not implemented.
 
 Source code: https://github.com/rtek1000/NUVOTON_M451
 
