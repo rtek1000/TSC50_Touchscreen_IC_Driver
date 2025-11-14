@@ -1,1 +1,1 @@
-- Note: The Arduino code for testing (differs from the functionality implemented with the Nuvoton MCU).
+- Note: The Arduino code for testing (differs from the functionality implemented with the [Nuvoton MCU](https://github.com/rtek1000/TSC50_Touchscreen_IC_Driver/tree/main/NUVOTON_M451/SampleCode/TouchscreenDriver/Touchscreen_Driver)).
